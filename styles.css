@@ -1,0 +1,22 @@
+*{
+    margin: auto;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cuadro1{
+    border: 2px white solid;
+}
+.cuadro2{
+    border: 2px white solid;
+    
+}
+.list{
+    display: contents;
+    align-items: center;
+    justify-content: center;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
